@@ -8,6 +8,7 @@ dependencies = [
     "ipywidgets>=8.1.7",
     "matplotlib>=3.10.7",
     "notebook>=7.4.7",
+    "numba>=0.62.1",
     "numpy>=2.3.3",
     "pymc>=5.25.1",
 ]
